@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #F5F5F5;
+}
+
+.my-card-title  {
+    color: #FF6600;
+}
+
+.my-body {
+    background-color: #604CC3;
+    color: #F5F5F5;
+}
